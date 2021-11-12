@@ -6,8 +6,9 @@ Never mind!!
 This Article is written on 12th November 2021 and Android-cli is setup and running. In future if you are facing some problems, feel free to drop comments , I will create a new version of this setup.
 
 I will first dicuss the steps using bullet points, then we will go through actual setup. 
+
 Step - 1 ::
- 1. We need JDK setup.
+ 1. We need to setup JDK downloaded and installed.
  2. Adding its path in ~/.bashrc file.
  3. We will download Android CLI ZIP.
  4. Create a directory to extract and installed  PTN :: using a manual procedure as discussed below.
